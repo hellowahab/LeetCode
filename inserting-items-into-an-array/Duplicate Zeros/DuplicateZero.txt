@@ -1,0 +1,5 @@
+﻿This Problem is taken from leet code.
+You can find the original problem in the following link:
+https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/
+
+Problem Statement:
